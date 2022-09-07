@@ -18,4 +18,4 @@ print(list.size)
 a = np.arange(20)
 print(a)#(n-1)
 #Equal linear space
-lnip = np.linspace(1, 8, 10)
+lnip = np.linspace(1, 5, 10)
